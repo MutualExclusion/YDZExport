@@ -21,5 +21,60 @@ namespace YDZExport
         {
 
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtPWD_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lbQYH_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void product_list_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void picVerify_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtYZM_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtEntNo_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtUserName_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
