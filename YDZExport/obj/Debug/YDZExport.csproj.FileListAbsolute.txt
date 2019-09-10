@@ -1,0 +1,15 @@
+F:\fc-exp\c#\YDZExport\YDZExport\YDZExport\obj\Debug\YDZExport.csprojAssemblyReference.cache
+F:\fc-exp\c#\YDZExport\YDZExport\YDZExport\obj\Debug\YDZExport.Properties.Resources.resources
+F:\fc-exp\c#\YDZExport\YDZExport\YDZExport\obj\Debug\YDZExport.csproj.GenerateResource.cache
+F:\fc-exp\c#\YDZExport\YDZExport\YDZExport\obj\Debug\YDZExport.csproj.CoreCompileInputs.cache
+F:\fc-exp\c#\YDZExport\YDZExport\YDZExport\bin\Debug\YDZExport.exe.config
+F:\fc-exp\c#\YDZExport\YDZExport\YDZExport\bin\Debug\YDZExport.exe
+F:\fc-exp\c#\YDZExport\YDZExport\YDZExport\bin\Debug\YDZExport.pdb
+F:\fc-exp\c#\YDZExport\YDZExport\YDZExport\bin\Debug\CSkin.dll
+F:\fc-exp\c#\YDZExport\YDZExport\YDZExport\bin\Debug\Newtonsoft.Json.dll
+F:\fc-exp\c#\YDZExport\YDZExport\YDZExport\bin\Debug\CSkin.xml
+F:\fc-exp\c#\YDZExport\YDZExport\YDZExport\bin\Debug\Newtonsoft.Json.xml
+F:\fc-exp\c#\YDZExport\YDZExport\YDZExport\obj\Debug\YDZExport.csproj.CopyComplete
+F:\fc-exp\c#\YDZExport\YDZExport\YDZExport\obj\Debug\YDZExport.exe
+F:\fc-exp\c#\YDZExport\YDZExport\YDZExport\obj\Debug\YDZExport.pdb
+F:\fc-exp\c#\YDZExport\YDZExport\YDZExport\obj\Debug\YDZExport.ZWYExport.resources
